@@ -15,3 +15,10 @@ Goroutine、Channel 練習
 ### week_5
 1. 錯誤程式修正
 2. 階乘計算
+
+### week_6
+1. 介面實作練習
+2. govendor 套件使用
+
+### week_7
+1. 介面實作練習 part 2
