@@ -22,3 +22,8 @@ Goroutine、Channel 練習
 
 ### week_7
 1. 介面實作練習 part 2
+
+### week_8
+1. API 實作練習 - 使用 echo 框架
+    - server 建立 API 服務
+    - client 連線 server 所建立的 API
