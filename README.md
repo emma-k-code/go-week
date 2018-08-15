@@ -27,3 +27,7 @@ Goroutine、Channel 練習
 1. API 實作練習 - 使用 echo 框架
     - server 建立 API 服務
     - client 連線 server 所建立的 API
+
+### week_9
+1. gorm 練習
+2. redis 練習

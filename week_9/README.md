@@ -1,0 +1,5 @@
+- API Url: 127.0.0.1:8888
+- mysql 連線: 127.0.0.1:3306
+- 使用 DB: test
+- 使用 Table: weather
+- redis 連線: 127.0.0.1:6379
